@@ -1,0 +1,5 @@
+﻿1;Matematik;Sayısal;ııshdfkshf;5
+2;Fizik;Sayısal;khskgnskgfega;4
+3;Coğrafya;Sözel;agyughguılsd;3
+4;Türkçe;Sözel;afshdfksjfs;2
+5;Kimya;Sayısal;ytahtkljgklsfdg;1
